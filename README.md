@@ -1,0 +1,2 @@
+# seeyou
+ subdomain is vulnerable
